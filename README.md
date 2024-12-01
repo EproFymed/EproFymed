@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   
   ![GitHub Languages Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eprofymed&theme=github)
 
-  ![Wakatime](https://wakatime.com/badge/eprofymed/eprofymed/wakatime.svg)
+  ![Wakatime](https://wakatime.com/dashboard)
 
 
 
