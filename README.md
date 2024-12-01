@@ -23,10 +23,12 @@ Here are some ideas to get you started:
 </p>
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eprofymed&layout=compact&theme=radical)
+  
   ![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=eprofymed&theme=react-dark)
+  
   ![GitHub Languages Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eprofymed&theme=github)
 
-  ![Wakatime](https://wakatime.com/badge/user/eprofymed/wakatime.svg)
+  ![Wakatime](https://wakatime.com/badge/eprofymed/eprofymed/wakatime.svg)
 
 
 
