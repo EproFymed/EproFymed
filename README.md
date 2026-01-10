@@ -56,33 +56,13 @@
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux)
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eprofymed&show_icons=true&rank_icon=github&cache_seconds=21600" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eprofymed&layout=compact&cache_seconds=21600" />
-
-</div>
 
 ---
+## 📊 GitHub Contributions
 
-## 🔥 Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=eprofymed&cache_seconds=21600" />
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eprofymed&row=1&column=6&cache_seconds=21600" />
-</div>
-
+<p align="center">
+  <img src="https://ghchart.rshah.org/eprofymed" alt="GitHub Contributions" />
+</p>
 ---
 
 ## 🗓️ Activity Graph
