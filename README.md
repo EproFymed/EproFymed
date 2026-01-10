@@ -13,7 +13,8 @@
 # Hi, I'm EproFymed 👋  
 ### Researcher / Developer | AI Systems • Networking • Full-Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&center=true&vCenter=true&width=520&lines=AI+Systems+%7C+LLM+Training+%7C+Quantization;NS-3+%7C+Datacenter+Network+Simulation;Django+%7C+Flutter+%7C+Vue+%7C+Go" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&center=true&vCenter=true&width=520&lines=Backend+%7C+Frontend+%7C+System+Development;Python+%7C+C%2B%2B+%7C+Go;Django+%7C+Flutter+%7C+Vue+%7C+Docker" alt="Typing SVG" />
+
 
 <br/>
 
