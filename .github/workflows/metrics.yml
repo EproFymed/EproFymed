@@ -1,0 +1,42 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 每天 UTC 00:00 自动更新
+  workflow_dispatch:       # 允许你手动运行
+  push:
+    branches: ["main"]     # 你提交 main 时也会更新（可删）
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # 如果你只想公开信息，不需要 token 也能跑，但更容易被限流。
+          # 强烈建议配置 token（看下面第2步）
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: eprofymed
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Singapore
+
+          # 常用模块（稳定好看）
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+
+          # 输出到仓库根目录
+          filename: github-metrics.svg
