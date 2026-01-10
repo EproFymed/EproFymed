@@ -62,8 +62,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eprofymed&show_icons=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eprofymed&layout=compact" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=eprofymed&show_icons=true&rank_icon=github&cache_seconds=21600" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eprofymed&layout=compact&cache_seconds=21600" />
 
 </div>
 
@@ -72,7 +72,7 @@
 ## 🔥 Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=eprofymed" />
+  <img src="https://streak-stats.demolab.com?user=eprofymed&cache_seconds=21600" />
 </div>
 
 ---
@@ -80,7 +80,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eprofymed&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=eprofymed&row=1&column=6&cache_seconds=21600" />
 </div>
 
 ---
