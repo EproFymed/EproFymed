@@ -58,27 +58,12 @@
 
 
 ---
-## 📊 GitHub Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/eprofymed" alt="GitHub Contributions" />
-</p>
-
----
 
 ## 📈 GitHub Metrics
 
 <p align="center">
   <img src="./github-metrics.svg" alt="Metrics" />
 </p>
-
----
-
-## 🗓️ Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eprofymed" />
-</div>
 
 ---
 
