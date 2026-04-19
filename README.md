@@ -19,7 +19,7 @@
 <br/>
 
 <a href="https://github.com/eprofymed">
-  <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-eprofymed-181717?style=for-the-badge&logo=github" />
 </a>
 <a href="mailto:eprofymed@foxmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" />
